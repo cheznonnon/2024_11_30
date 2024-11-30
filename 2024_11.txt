@@ -1,0 +1,64 @@
+
+
+----------==========----------==========----------==========----------
+
+
+"Eat Your Own Catfood."
+
+
+----------==========----------==========----------==========----------
+
+
+Change Log
+
+
+2024/11/30
+
+
+zzz...
+
+
+----------==========----------==========----------==========----------
+
+
+Change Log
+
+
+2024/11/20
+
+
+BUGFIX
+
+
+	Nonnon Paint
+		Multi-Layer : Grabber : Basic Filters
+			OLD : position will be inaccurate
+			NEW : fixed
+
+
+NEW_FEATURE
+
+
+----------==========----------==========----------==========----------
+
+
+Change Log
+
+
+2024/11/10
+
+
+BUGFIX
+
+
+	Nonnon Paint
+		Multi-Layer : Grabber : Basic Filters
+			OLD : useless / data will be broken
+			NEW : fixed
+
+
+NEW_FEATURE
+
+
+----------==========----------==========----------==========----------
+
